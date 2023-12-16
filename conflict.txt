@@ -3,3 +3,5 @@ testing for merge conflict
 editing from the master branch.
 
 editing from the merge-1 branch.
+
+testing for creating a new conflict.
