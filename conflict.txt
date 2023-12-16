@@ -4,4 +4,6 @@ editing from the master branch.
 
 editing from the merge-1 branch.
 
+editing after merging the conflict.
+
 testing for creating a new conflict.
