@@ -1,4 +1,6 @@
 new file
+<<<<<<< HEAD
 new file1
 new file2
 new file3	
+
