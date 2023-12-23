@@ -1,1 +1,2 @@
 new file2
+It's a new file testing from the local project.
